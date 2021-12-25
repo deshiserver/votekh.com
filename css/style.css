@@ -152,7 +152,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #818892;
   background: #f9f6f0;
 }
-
+.text-center.to-animate.fadeInUp.animated img {
+  text-align: center;
+  margin: 0 auto;
+  width: 300px;
+  margin-top: 40px;
+}
 #fh5co-header {
   position: absolute;
   z-index: 99;
